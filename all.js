@@ -1,5 +1,5 @@
 let web3, contract;
-const contractAddress = "0x16555c8cBAda72184C6a2cD5355115dDc1986d23";  // Replace with your contract address
+const contractAddress = "0x02e80Dd124113902ceF7799D05EA1D8f7056D792";  // Replace with your contract address
 const abi = [
 	{
 		"anonymous": false,
