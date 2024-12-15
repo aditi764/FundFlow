@@ -11,12 +11,12 @@ Fund Flow is a decentralized crowdfunding platform built on Ethereum. It enables
 
 ## Contract Details
 
-- **Contract Address**: `0x1facbedf4d72627d39bfba6fb3753623257f19faadd35e9ac06e370da4185f0e`
+- **Contract Address**: `0x16555c8cBAda72184C6a2cD5355115dDc1986d23`
 - **Network**: Mantle Sepolia Testnet
 
 ## Deployment
 
-- **Contract Address**: [View on Explorer]()
+- **Contract Address**: [View on Explorer](https://sepolia.mantlescan.xyz/address/0x16555c8cbada72184c6a2cd5355115ddc1986d23)
 - **Coin Used**: MNT
 
 
@@ -45,8 +45,15 @@ The front-end is built using **HTML**, **CSS**, and **Web3.js** for seamless int
 
 ## Demo
 
-Visit the live version of the DApp [here]() (Add your live link).
+Visit the live version of the DApp [here](https://aditi764.github.io/FundFlow/).
 
-## License
+## Screenshots
+<img width="1440" alt="Screenshot 2024-12-15 at 12 46 11 AM" src="https://github.com/user-attachments/assets/711f30fd-85f8-4ee6-827c-c573615343c8" />
+<img width="1440" alt="Screenshot 2024-12-15 at 12 46 24 AM" src="https://github.com/user-attachments/assets/f9f9947a-12d6-4c75-8a86-476b87800f89" />
+<img width="1440" alt="Screenshot 2024-12-15 at 12 46 32 AM" src="https://github.com/user-attachments/assets/007aa8ea-d4fc-4184-9252-a21dfc4c7089" />
+<img width="1440" alt="Screenshot 2024-12-15 at 12 46 51 AM" src="https://github.com/user-attachments/assets/83036cf7-2ea4-489b-a54f-5cdeef2768b5" />
+<img width="1440" alt="Screenshot 2024-12-15 at 12 46 42 AM" src="https://github.com/user-attachments/assets/08870537-7c16-46fa-bb1d-dee16611a2ec" />
 
-This project is licensed under the MIT License.
+
+
+
