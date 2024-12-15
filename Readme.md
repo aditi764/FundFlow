@@ -1,6 +1,6 @@
 # Fund Flow
 
-Fund Flow is a decentralized crowdfunding platform built on Ethereum. It enables users to create, fund, and manage campaigns with complete transparency and security using blockchain technology.
+Fund Flow is a decentralized crowdfunding platform built on Mantle. It enables users to create, fund, and manage campaigns with complete transparency and security using blockchain technology.
 
 ## Features
 
