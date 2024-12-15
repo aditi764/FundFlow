@@ -11,12 +11,12 @@ Fund Flow is a decentralized crowdfunding platform built on Ethereum. It enables
 
 ## Contract Details
 
-- **Contract Address**: `0x02e80Dd124113902ceF7799D05EA1D8f7056D792`
+- **Contract Address**: `0xcdb7F692E15aB9cAffc79643e5694f832aD0b417`
 - **Network**: Mantle Sepolia Testnet
 
 ## Deployment
 
-- **Contract Address**: [View on Explorer](https://sepolia.mantlescan.xyz/address/0x02e80Dd124113902ceF7799D05EA1D8f7056D792)
+- **Contract Address**: [View on Explorer](https://sepolia.mantlescan.xyz/address/0xcdb7F692E15aB9cAffc79643e5694f832aD0b417)
 - **Coin Used**: MNT
 
 
